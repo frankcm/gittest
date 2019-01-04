@@ -1,6 +1,3 @@
 made from website
-<<<<<<< HEAD
-locally changed
-=======
+locally changed from gittest
 
->>>>>>> ba70b795ca5a8881f38b5720bae6acbc84b150cb
