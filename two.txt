@@ -1,2 +1,6 @@
 made from website
+<<<<<<< HEAD
 locally changed
+=======
+
+>>>>>>> ba70b795ca5a8881f38b5720bae6acbc84b150cb
