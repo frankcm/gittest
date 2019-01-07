@@ -1,2 +1,3 @@
 totally new file from gittest2 directory
 xyhz
+added from gittest1 10:06am
